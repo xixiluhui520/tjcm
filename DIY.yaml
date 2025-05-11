@@ -7,52 +7,30 @@ proxies:
   - {name: 🇺🇸 美国1, server: lifestyle.freetrade.link, port: 18364, client-fingerprint: chrome, type: trojan, password: 4GA1yNVbxOmx5deR3oj6CgKcHxL1aOSN, sni: lifestyle.freetrade.link, skip-cert-verify: false}
   - {name: KR 韩国0046, server: 211.251.7.76, port: 50000, type: trojan, password: Aimer, sni: epccj.ambercc.filegear-sg.me, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: epccj.ambercc.filegear-sg.me}}, udp: true}
   - {name: TW 台湾0074, server: 35.201.203.106, port: 443, type: trojan, password: bpb-trojan, sni: skwygx.top, skip-cert-verify: true, network: ws, ws-opts: {path: "/tr?ed=2560", headers: {Host: skwygx.top}}, udp: true}
-  - {name: 🇭🇰 香港-鸣潮机场_联通 1, server: 58.254.186.222, port: 27101, type: trojan, password: c9ac6c55-2e46-4a2c-8e05-0bc121590304, sni: q08m.vgraxiw73s.hasyaf.cn, skip-cert-verify: false}
-  - {name: 🇭🇰 香港-鸣潮机场_联通 2, server: 58.254.186.231, port: 27101, type: trojan, password: c9ac6c55-2e46-4a2c-8e05-0bc121590304, sni: q08m.vgraxiw73s.hasyaf.cn, skip-cert-verify: false}
-  - {name: 🇭🇰 香港-鸣潮机场_联通 3, server: 58.254.186.233, port: 27101, type: trojan, password: c9ac6c55-2e46-4a2c-8e05-0bc121590304, sni: q08m.vgraxiw73s.hasyaf.cn, skip-cert-verify: false}
-  - {name: 🇭🇰 香港-鸣潮机场_联通 4, server: 163.177.47.36, port: 27101, type: trojan, password: c9ac6c55-2e46-4a2c-8e05-0bc121590304, sni: q08m.vgraxiw73s.hasyaf.cn, skip-cert-verify: false}
-  - {name: 🇭🇰 香港-鸣潮机场_移动 1, server: 120.232.220.45, port: 27101, type: trojan, password: c9ac6c55-2e46-4a2c-8e05-0bc121590304, sni: q08m.vgraxiw73s.hasyaf.cn, skip-cert-verify: false}
-  - {name: 🇭🇰 香港-鸣潮机场_移动 2, server: 183.240.116.224, port: 27101, type: trojan, password: c9ac6c55-2e46-4a2c-8e05-0bc121590304, sni: q08m.vgraxiw73s.hasyaf.cn, skip-cert-verify: false}
-  - {name: 🇭🇰 香港-鸣潮机场_移动 3, server: 183.240.116.235, port: 27101, type: trojan, password: c9ac6c55-2e46-4a2c-8e05-0bc121590304, sni: q08m.vgraxiw73s.hasyaf.cn, skip-cert-verify: false}
-  - {name: 🇭🇰 香港-鸣潮机场_移动 4, server: 183.240.116.252, port: 27101, type: trojan, password: c9ac6c55-2e46-4a2c-8e05-0bc121590304, sni: q08m.vgraxiw73s.hasyaf.cn, skip-cert-verify: false}
-  - {name: 🇭🇰 香港-鸣潮机场_电信 1, server: 125.94.45.119, port: 27101, type: trojan, password: c9ac6c55-2e46-4a2c-8e05-0bc121590304, sni: q08m.vgraxiw73s.hasyaf.cn, skip-cert-verify: false}
-  - {name: 🇭🇰 香港-鸣潮机场_电信 2, server: 183.2.150.64, port: 27101, type: trojan, password: c9ac6c55-2e46-4a2c-8e05-0bc121590304, sni: q08m.vgraxiw73s.hasyaf.cn, skip-cert-verify: false}
-  - {name: 🇭🇰 香港-鸣潮机场_电信 3, server: 183.2.150.90, port: 27101, type: trojan, password: c9ac6c55-2e46-4a2c-8e05-0bc121590304, sni: q08m.vgraxiw73s.hasyaf.cn, skip-cert-verify: false}
-  - {name: 🇭🇰 香港-鸣潮机场_电信 4, server: 183.2.150.98, port: 27101, type: trojan, password: c9ac6c55-2e46-4a2c-8e05-0bc121590304, sni: q08m.vgraxiw73s.hasyaf.cn, skip-cert-verify: false}
-  - {name: 🇭🇰 香港-鸣潮机场_联通 5, server: 58.254.186.222, port: 27102, type: trojan, password: c9ac6c55-2e46-4a2c-8e05-0bc121590304, sni: q08m.vgraxiw73s.hasyaf.cn, skip-cert-verify: false}
-  - {name: 🇭🇰 香港-鸣潮机场_联通 6, server: 58.254.186.231, port: 27102, type: trojan, password: c9ac6c55-2e46-4a2c-8e05-0bc121590304, sni: q08m.vgraxiw73s.hasyaf.cn, skip-cert-verify: false}
-  - {name: 🇭🇰 香港-鸣潮机场_联通 7, server: 58.254.186.233, port: 27102, type: trojan, password: c9ac6c55-2e46-4a2c-8e05-0bc121590304, sni: q08m.vgraxiw73s.hasyaf.cn, skip-cert-verify: false}
-  - {name: 🇭🇰 香港-鸣潮机场_联通 8, server: 163.177.47.36, port: 27102, type: trojan, password: c9ac6c55-2e46-4a2c-8e05-0bc121590304, sni: q08m.vgraxiw73s.hasyaf.cn, skip-cert-verify: false}
-  - {name: 🇭🇰 香港-鸣潮机场_移动 5, server: 120.232.220.45, port: 27102, type: trojan, password: c9ac6c55-2e46-4a2c-8e05-0bc121590304, sni: q08m.vgraxiw73s.hasyaf.cn, skip-cert-verify: false}
-  - {name: 🇭🇰 香港-鸣潮机场_移动 6, server: 183.240.116.224, port: 27102, type: trojan, password: c9ac6c55-2e46-4a2c-8e05-0bc121590304, sni: q08m.vgraxiw73s.hasyaf.cn, skip-cert-verify: false}
-  - {name: 🇭🇰 香港-鸣潮机场_移动 7, server: 183.240.116.235, port: 27102, type: trojan, password: c9ac6c55-2e46-4a2c-8e05-0bc121590304, sni: q08m.vgraxiw73s.hasyaf.cn, skip-cert-verify: false}
-  - {name: 🇭🇰 香港-鸣潮机场_移动 8, server: 183.240.116.252, port: 27102, type: trojan, password: c9ac6c55-2e46-4a2c-8e05-0bc121590304, sni: q08m.vgraxiw73s.hasyaf.cn, skip-cert-verify: false}
-  - {name: 🇭🇰 香港-鸣潮机场_电信 5, server: 125.94.45.119, port: 27102, type: trojan, password: c9ac6c55-2e46-4a2c-8e05-0bc121590304, sni: q08m.vgraxiw73s.hasyaf.cn, skip-cert-verify: false}
-  - {name: 🇭🇰 香港-鸣潮机场_电信 6, server: 183.2.150.64, port: 27102, type: trojan, password: c9ac6c55-2e46-4a2c-8e05-0bc121590304, sni: q08m.vgraxiw73s.hasyaf.cn, skip-cert-verify: false}
-  - {name: 🇭🇰 香港-鸣潮机场_电信 7, server: 183.2.150.90, port: 27102, type: trojan, password: c9ac6c55-2e46-4a2c-8e05-0bc121590304, sni: q08m.vgraxiw73s.hasyaf.cn, skip-cert-verify: false}
-  - {name: 🇭🇰 香港-鸣潮机场_电信 8, server: 183.2.150.98, port: 27102, type: trojan, password: c9ac6c55-2e46-4a2c-8e05-0bc121590304, sni: q08m.vgraxiw73s.hasyaf.cn, skip-cert-verify: false}
-  - {name: 🇭🇰 香港-鸣潮机场_联通 9, server: 58.254.186.222, port: 10465, type: trojan, password: c9ac6c55-2e46-4a2c-8e05-0bc121590304, sni: q08m.vgraxiw73s.hasyaf.cn, skip-cert-verify: false}
-  - {name: 🇭🇰 香港-鸣潮机场_联通 10, server: 58.254.186.231, port: 10465, type: trojan, password: c9ac6c55-2e46-4a2c-8e05-0bc121590304, sni: q08m.vgraxiw73s.hasyaf.cn, skip-cert-verify: false}
-  - {name: 🇭🇰 香港-鸣潮机场_联通 11, server: 58.254.186.233, port: 10465, type: trojan, password: c9ac6c55-2e46-4a2c-8e05-0bc121590304, sni: q08m.vgraxiw73s.hasyaf.cn, skip-cert-verify: false}
-  - {name: 🇭🇰 香港-鸣潮机场_联通 12, server: 163.177.47.36, port: 10465, type: trojan, password: c9ac6c55-2e46-4a2c-8e05-0bc121590304, sni: q08m.vgraxiw73s.hasyaf.cn, skip-cert-verify: false}
-  - {name: 🇭🇰 香港-鸣潮机场_移动 9, server: 120.232.220.45, port: 10465, type: trojan, password: c9ac6c55-2e46-4a2c-8e05-0bc121590304, sni: q08m.vgraxiw73s.hasyaf.cn, skip-cert-verify: false}
-  - {name: 🇭🇰 香港-鸣潮机场_移动 10, server: 183.240.116.224, port: 10465, type: trojan, password: c9ac6c55-2e46-4a2c-8e05-0bc121590304, sni: q08m.vgraxiw73s.hasyaf.cn, skip-cert-verify: false}
-  - {name: 🇭🇰 香港-鸣潮机场_移动 11, server: 183.240.116.235, port: 10465, type: trojan, password: c9ac6c55-2e46-4a2c-8e05-0bc121590304, sni: q08m.vgraxiw73s.hasyaf.cn, skip-cert-verify: false}
-  - {name: 🇭🇰 香港-鸣潮机场_移动 12, server: 183.240.116.252, port: 10465, type: trojan, password: c9ac6c55-2e46-4a2c-8e05-0bc121590304, sni: q08m.vgraxiw73s.hasyaf.cn, skip-cert-verify: false}
-  - {name: 🇭🇰 香港-鸣潮机场_电信 9, server: 125.94.45.119, port: 10465, type: trojan, password: c9ac6c55-2e46-4a2c-8e05-0bc121590304, sni: q08m.vgraxiw73s.hasyaf.cn, skip-cert-verify: false}
-  - {name: 🇭🇰 香港-鸣潮机场_电信 10, server: 183.2.150.64, port: 10465, type: trojan, password: c9ac6c55-2e46-4a2c-8e05-0bc121590304, sni: q08m.vgraxiw73s.hasyaf.cn, skip-cert-verify: false}
-  - {name: 🇭🇰 香港-鸣潮机场_电信 11, server: 183.2.150.90, port: 10465, type: trojan, password: c9ac6c55-2e46-4a2c-8e05-0bc121590304, sni: q08m.vgraxiw73s.hasyaf.cn, skip-cert-verify: false}
-  - {name: 🇭🇰 香港-鸣潮机场_电信 12, server: 183.2.150.98, port: 10465, type: trojan, password: c9ac6c55-2e46-4a2c-8e05-0bc121590304, sni: q08m.vgraxiw73s.hasyaf.cn, skip-cert-verify: false}
-  - {name: 🇭🇰 香港-鸣潮机场_联通 13, server: 58.254.186.222, port: 27103, type: trojan, password: c9ac6c55-2e46-4a2c-8e05-0bc121590304, sni: q08m.vgraxiw73s.hasyaf.cn, skip-cert-verify: false}
-  - {name: 🇭🇰 香港-鸣潮机场_联通 14, server: 58.254.186.231, port: 27103, type: trojan, password: c9ac6c55-2e46-4a2c-8e05-0bc121590304, sni: q08m.vgraxiw73s.hasyaf.cn, skip-cert-verify: false}
-  - {name: 🇭🇰 香港-鸣潮机场_联通 15, server: 58.254.186.233, port: 27103, type: trojan, password: c9ac6c55-2e46-4a2c-8e05-0bc121590304, sni: q08m.vgraxiw73s.hasyaf.cn, skip-cert-verify: false}
-  - {name: 🇭🇰 香港-鸣潮机场_联通 16, server: 163.177.47.36, port: 27103, type: trojan, password: c9ac6c55-2e46-4a2c-8e05-0bc121590304, sni: q08m.vgraxiw73s.hasyaf.cn, skip-cert-verify: false}
-  - {name: 🇭🇰 香港-鸣潮机场_移动 13, server: 120.232.220.45, port: 27103, type: trojan, password: c9ac6c55-2e46-4a2c-8e05-0bc121590304, sni: q08m.vgraxiw73s.hasyaf.cn, skip-cert-verify: false}
-  - {name: 🇭🇰 香港-鸣潮机场_移动 14, server: 183.240.116.224, port: 27103, type: trojan, password: c9ac6c55-2e46-4a2c-8e05-0bc121590304, sni: q08m.vgraxiw73s.hasyaf.cn, skip-cert-verify: false}
-  - {name: 🇭🇰 香港-鸣潮机场_移动 15, server: 183.240.116.235, port: 27103, type: trojan, password: c9ac6c55-2e46-4a2c-8e05-0bc121590304, sni: q08m.vgraxiw73s.hasyaf.cn, skip-cert-verify: false}
-  - {name: 🇭🇰 香港-鸣潮机场_移动 16, server: 183.240.116.252, port: 27103, type: trojan, password: c9ac6c55-2e46-4a2c-8e05-0bc121590304, sni: q08m.vgraxiw73s.hasyaf.cn, skip-cert-verify: false}
-  - {name: 🇭🇰 香港-鸣潮机场_电信 13, server: 125.94.45.119, port: 27103, type: trojan, password: c9ac6c55-2e46-4a2c-8e05-0bc121590304, sni: q08m.vgraxiw73s.hasyaf.cn, skip-cert-verify: false}
-  - {name: 🇭🇰 香港-鸣潮机场_电信 14, server: 183.2.150.64, port: 27103, type: trojan, password: c9ac6c55-2e46-4a2c-8e05-0bc121590304, sni: q08m.vgraxiw73s.hasyaf.cn, skip-cert-verify: false}
-  - {name: 🇭🇰 香港-鸣潮机场_电信 15, server: 183.2.150.90, port: 27103, type: trojan, password: c9ac6c55-2e46-4a2c-8e05-0bc121590304, sni: q08m.vgraxiw73s.hasyaf.cn, skip-cert-verify: false}
-  - {name: 🇭🇰 香港-鸣潮机场_电信 16, server: 183.2.150.98, port: 27103, type: trojan, password: c9ac6c55-2e46-4a2c-8e05-0bc121590304, sni: q08m.vgraxiw73s.hasyaf.cn, skip-cert-verify: false}
-  - {name: 🇭🇰 香港_唯云专线_托马的黑丝, server: 101.36.106.33, port: 10010, type: ss, cipher: aes-256-gcm, password: qq}
+  - {name: 碧海☁️ 台湾-01, server: 183.240.116.252, port: 27201, type: trojan, password: c9ac6c55-2e46-4a2c-8e05-0bc121590304, sni: q08m.vgraxiw73s.hasyaf.cn, skip-cert-verify: false}
+  - {name: 碧海☁️ 香港-01, server: 183.240.116.252, port: 27101, type: trojan, password: c9ac6c55-2e46-4a2c-8e05-0bc121590304, sni: q08m.vgraxiw73s.hasyaf.cn, skip-cert-verify: false}
+  - {name: 碧海☁️ 香港-02, server: 183.240.116.252, port: 27102, type: trojan, password: c9ac6c55-2e46-4a2c-8e05-0bc121590304, sni: q08m.vgraxiw73s.hasyaf.cn, skip-cert-verify: false}
+  - {name: 碧海☁️ 香港-03, server: 183.240.116.252, port: 27103, type: trojan, password: c9ac6c55-2e46-4a2c-8e05-0bc121590304, sni: q08m.vgraxiw73s.hasyaf.cn, skip-cert-verify: false}
+  - {name: 碧海☁️ 香港-04, server: 183.240.116.252, port: 10465, type: trojan, password: c9ac6c55-2e46-4a2c-8e05-0bc121590304, sni: q08m.vgraxiw73s.hasyaf.cn, skip-cert-verify: false}
+  - {name: 碧海☁️ 台湾-01 2, server: 183.240.116.235, port: 27201, type: trojan, password: c9ac6c55-2e46-4a2c-8e05-0bc121590304, sni: q08m.vgraxiw73s.hasyaf.cn, skip-cert-verify: false}
+  - {name: 碧海☁️ 香港-01 2, server: 183.240.116.235, port: 27101, type: trojan, password: c9ac6c55-2e46-4a2c-8e05-0bc121590304, sni: q08m.vgraxiw73s.hasyaf.cn, skip-cert-verify: false}
+  - {name: 碧海☁️ 香港-02 2, server: 183.240.116.235, port: 27102, type: trojan, password: c9ac6c55-2e46-4a2c-8e05-0bc121590304, sni: q08m.vgraxiw73s.hasyaf.cn, skip-cert-verify: false}
+  - {name: 碧海☁️ 香港-03 2, server: 183.240.116.235, port: 27103, type: trojan, password: c9ac6c55-2e46-4a2c-8e05-0bc121590304, sni: q08m.vgraxiw73s.hasyaf.cn, skip-cert-verify: false}
+  - {name: 碧海☁️ 香港-04 2, server: 183.240.116.235, port: 10465, type: trojan, password: c9ac6c55-2e46-4a2c-8e05-0bc121590304, sni: q08m.vgraxiw73s.hasyaf.cn, skip-cert-verify: false}
+  - {name: 碧海☁️ 香港-01 3, server: 183.240.116.224, port: 27101, type: trojan, password: c9ac6c55-2e46-4a2c-8e05-0bc121590304, sni: q08m.vgraxiw73s.hasyaf.cn, skip-cert-verify: false}
+  - {name: 碧海☁️ 香港-02 3, server: 183.240.116.224, port: 27102, type: trojan, password: c9ac6c55-2e46-4a2c-8e05-0bc121590304, sni: q08m.vgraxiw73s.hasyaf.cn, skip-cert-verify: false}
+  - {name: 碧海☁️ 香港-03 3, server: 183.240.116.224, port: 27103, type: trojan, password: c9ac6c55-2e46-4a2c-8e05-0bc121590304, sni: q08m.vgraxiw73s.hasyaf.cn, skip-cert-verify: false}
+  - {name: 碧海☁️ 香港-04 3, server: 183.240.116.224, port: 10465, type: trojan, password: c9ac6c55-2e46-4a2c-8e05-0bc121590304, sni: q08m.vgraxiw73s.hasyaf.cn, skip-cert-verify: false}
+  - {name: 碧海☁️ 台湾-01 4, server: 183.2.150.98, port: 27201, type: trojan, password: c9ac6c55-2e46-4a2c-8e05-0bc121590304, sni: q08m.vgraxiw73s.hasyaf.cn, skip-cert-verify: false}
+  - {name: 碧海☁️ 香港-01 4, server: 183.2.150.98, port: 27101, type: trojan, password: c9ac6c55-2e46-4a2c-8e05-0bc121590304, sni: q08m.vgraxiw73s.hasyaf.cn, skip-cert-verify: false}
+  - {name: 碧海☁️ 香港-02 4, server: 183.2.150.98, port: 27102, type: trojan, password: c9ac6c55-2e46-4a2c-8e05-0bc121590304, sni: q08m.vgraxiw73s.hasyaf.cn, skip-cert-verify: false}
+  - {name: 碧海☁️ 香港-03 4, server: 183.2.150.98, port: 27103, type: trojan, password: c9ac6c55-2e46-4a2c-8e05-0bc121590304, sni: q08m.vgraxiw73s.hasyaf.cn, skip-cert-verify: false}
+  - {name: 碧海☁️ 香港-04 4, server: 183.2.150.98, port: 10465, type: trojan, password: c9ac6c55-2e46-4a2c-8e05-0bc121590304, sni: q08m.vgraxiw73s.hasyaf.cn, skip-cert-verify: false}
+  - {name: 碧海☁️ 香港-01 6, server: 183.2.150.64, port: 27101, type: trojan, password: c9ac6c55-2e46-4a2c-8e05-0bc121590304, sni: q08m.vgraxiw73s.hasyaf.cn, skip-cert-verify: false}
+  - {name: 碧海☁️ 香港-02 6, server: 183.2.150.64, port: 27102, type: trojan, password: c9ac6c55-2e46-4a2c-8e05-0bc121590304, sni: q08m.vgraxiw73s.hasyaf.cn, skip-cert-verify: false}
+  - {name: 碧海☁️ 香港-03 6, server: 183.2.150.64, port: 27103, type: trojan, password: c9ac6c55-2e46-4a2c-8e05-0bc121590304, sni: q08m.vgraxiw73s.hasyaf.cn, skip-cert-verify: false}
+  - {name: 碧海☁️ 香港-04 6, server: 183.2.150.64, port: 10465, type: trojan, password: c9ac6c55-2e46-4a2c-8e05-0bc121590304, sni: q08m.vgraxiw73s.hasyaf.cn, skip-cert-verify: false}
+
+
+
+  
