@@ -1,39 +1,9 @@
 proxies:
-- name: 🇨🇳 碧海☁️ 台湾-01
-  server: 183.2.150.90
-  port: 27201
-  type: trojan
-  password: a34e4371-4e4b-4695-9bb0-d6bab60a8389
-  sni: q08m.vgraxiw73s.hasyaf.cn
-  skip-cert-verify: false
-- name: 🇭🇰 碧海☁️ 香港-01
-  server: 183.2.150.90
-  port: 27101
-  type: trojan
-  password: a34e4371-4e4b-4695-9bb0-d6bab60a8389
-  sni: q08m.vgraxiw73s.hasyaf.cn
-  skip-cert-verify: false
-- name: 🇭🇰 碧海☁️ 香港-02
-  server: 183.2.150.90
-  port: 27102
-  type: trojan
-  password: a34e4371-4e4b-4695-9bb0-d6bab60a8389
-  sni: q08m.vgraxiw73s.hasyaf.cn
-  skip-cert-verify: false
-- name: 🇭🇰 碧海☁️ 香港-03
-  server: 183.2.150.90
-  port: 27103
-  type: trojan
-  password: a34e4371-4e4b-4695-9bb0-d6bab60a8389
-  sni: q08m.vgraxiw73s.hasyaf.cn
-  skip-cert-verify: false
-- name: 🇭🇰 碧海☁️ 香港-04
-  server: 183.2.150.90
-  port: 10465
-  type: trojan
-  password: a34e4371-4e4b-4695-9bb0-d6bab60a8389
-  sni: q08m.vgraxiw73s.hasyaf.cn
-  skip-cert-verify: false
+  - {name: 🇨🇳 碧海☁️ 台湾-01,server: 183.2.150.90, port: 27201,type: trojan,password: a34e4371-4e4b-4695-9bb0-d6bab60a8389, sni: q08m.vgraxiw73s.hasyaf.cn,skip-cert-verify: false}
+  - {name: 🇭🇰 碧海☁️ 香港-01,server: 183.2.150.90, port: 27101,type: trojan,password: a34e4371-4e4b-4695-9bb0-d6bab60a8389, sni: q08m.vgraxiw73s.hasyaf.cn,skip-cert-verify: false}
+  - {name: 🇭🇰 碧海☁️ 香港-02,server: 183.2.150.90, port: 27102,type: trojan,password: a34e4371-4e4b-4695-9bb0-d6bab60a8389, sni: q08m.vgraxiw73s.hasyaf.cn,skip-cert-verify: false}
+  - {name: 🇭🇰 碧海☁️ 香港-03,server: 183.2.150.90, port: 27103,type: trojan,password: a34e4371-4e4b-4695-9bb0-d6bab60a8389, sni: q08m.vgraxiw73s.hasyaf.cn,skip-cert-verify: false}
+  - {name: 🇭🇰 碧海☁️ 香港-04,server: 183.2.150.90, port: 10465,type: trojan,password: a34e4371-4e4b-4695-9bb0-d6bab60a8389, sni: q08m.vgraxiw73s.hasyaf.cn,skip-cert-verify: false}
   - {name: 🇺🇸 美国1, server: lifestyle.freetrade.link, port: 18364, client-fingerprint: chrome, type: trojan, password: 4GA1yNVbxOmx5deR3oj6CgKcHxL1aOSN, sni: lifestyle.freetrade.link, skip-cert-verify: false}
   - {name: KR 韩国0046, server: 211.251.7.76, port: 50000, type: trojan, password: Aimer, sni: epccj.ambercc.filegear-sg.me, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: epccj.ambercc.filegear-sg.me}}, udp: true}
   - {name: TW 台湾0074, server: 35.201.203.106, port: 443, type: trojan, password: bpb-trojan, sni: skwygx.top, skip-cert-verify: true, network: ws, ws-opts: {path: "/tr?ed=2560", headers: {Host: skwygx.top}}, udp: true}
