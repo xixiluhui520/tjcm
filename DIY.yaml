@@ -1,4 +1,5 @@
 proxies:
+  - {name: 馃嚭馃嚫 United-States, server: lifestyle.freetrade.link, port: 18364, client-fingerprint: chrome, type: trojan, password: 4GA1yNVbxOmx5deR3oj6CgKcHxL1aOSN, sni: lifestyle.freetrade.link, skip-cert-verify: false}
   - {name: 🇭🇰 香港-鸣潮机场_联通 1, server: 58.254.186.222, port: 27101, type: trojan, password: c9ac6c55-2e46-4a2c-8e05-0bc121590304, sni: q08m.vgraxiw73s.hasyaf.cn, skip-cert-verify: false}
   - {name: 🇭🇰 香港-鸣潮机场_联通 2, server: 58.254.186.231, port: 27101, type: trojan, password: c9ac6c55-2e46-4a2c-8e05-0bc121590304, sni: q08m.vgraxiw73s.hasyaf.cn, skip-cert-verify: false}
   - {name: 🇭🇰 香港-鸣潮机场_联通 3, server: 58.254.186.233, port: 27101, type: trojan, password: c9ac6c55-2e46-4a2c-8e05-0bc121590304, sni: q08m.vgraxiw73s.hasyaf.cn, skip-cert-verify: false}
