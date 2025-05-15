@@ -1,5 +1,73 @@
 proxies:
-
+  - {name: 馃嚟馃嚢 棣欐腐_纰ф捣浜憁ini_鍧庤拏涓濈殑椋炴満鏉�, server: 163.177.47.36, port: 10465, type: trojan, password: 5253140c-b2c2-4ec0-bd99-c22fe27978aa, sni: q08m.vgraxiw73s.hasyaf.cn}
+  - {name: 馃嚟馃嚢 棣欐腐_纰ф捣浜憁ini_鐏鐨勫睅, server: 183.240.116.252, port: 27103, type: trojan, password: eb095655-15dc-45e3-954d-7dfaef5898d4, sni: q08m.vgraxiw73s.hasyaf.cn}
+  - {name: 馃嚟馃嚢 棣欐腐_纰ф捣浜憁ini_甯岃瀹佺殑楦″惂, server: 183.240.116.235, port: 10465, type: trojan, password: fbcdc4b9-38ac-4a81-8b37-a516824b4cf5, sni: q08m.vgraxiw73s.hasyaf.cn}
+  - {name: 馃嚟馃嚢 棣欐腐_纰ф捣浜憁ini_鐟剁懚鐨勫皬鑴歌泲, server: 58.254.186.231, port: 27103, type: trojan, password: 1b05f5b3-02a8-4ee8-ad48-7d4c49cb7d45, sni: q08m.vgraxiw73s.hasyaf.cn}
+  - {name: 馃嚟馃嚢 棣欐腐_纰ф捣浜憁ini_鍒绘櫞鐨勫眮鑲�, server: 183.240.116.224, port: 27101, type: trojan, password: 8e515b71-0dc4-4227-9078-3884fa0c9b73, sni: q08m.vgraxiw73s.hasyaf.cn}
+  - {name: 馃嚟馃嚢 棣欐腐_纰ф捣浜憁ini_杩ゥ濞滅殑铻烘棆闄€铻哄揩鍑嗙嫚绮夐浮楦�, server: 183.240.116.224, port: 10465, type: trojan, password: ef128b26-3735-4a14-a725-29c22e01a404, sni: q08m.vgraxiw73s.hasyaf.cn}
+  - {name: 馃嚟馃嚢 棣欐腐_纰ф捣浜憁ini_鑿茬背灏肩殑鐧戒笣, server: 183.2.150.98, port: 27103, type: trojan, password: 66918841-ea8a-48ec-867e-8e03f84d2aa3, sni: q08m.vgraxiw73s.hasyaf.cn}
+  - {name: 馃嚟馃嚢 棣欐腐_纰ф捣浜憁ini_涓借帋鐨勯夯鑺辫精, server: 125.94.45.119, port: 10465, type: trojan, password: eb6ab686-c5f5-46a2-8b92-937063ddcc85, sni: q08m.vgraxiw73s.hasyaf.cn}
+  - {name: 馃嚟馃嚢 棣欐腐_纰ф捣浜憁ini_鏄熶簯鐨勯槾钂�, server: 183.240.116.252, port: 10465, type: trojan, password: 9b93b3af-b01d-4f9d-8b06-d581d52cc3eb, sni: q08m.vgraxiw73s.hasyaf.cn}
+  - {name: 馃嚟馃嚢 棣欐腐_纰ф捣浜憁ini_鍒绘櫞鐨勯暱杈�18CM鐩村緞8CM鐨勬繁娓婄矇澶村瘎鍚�, server: 58.254.186.222, port: 27103, type: trojan, password: d2563a9b-a9fe-4419-82e4-71b382dae69d, sni: q08m.vgraxiw73s.hasyaf.cn}
+  - {name: 馃嚟馃嚢 棣欐腐_纰ф捣浜憁ini_绁為噷缁崕鐨勫ぇ鑵�, server: 183.240.116.235, port: 27102, type: trojan, password: 2e94bf4f-c28a-49d3-a93f-c5f770d0e370, sni: q08m.vgraxiw73s.hasyaf.cn}
+  - {name: 馃嚟馃嚢 棣欐腐_纰ф捣浜憁ini_鐧芥湳鐨勫皬鑴�, server: 163.177.47.36, port: 27101, type: trojan, password: d967db32-343b-46d3-a9a2-9ae9890f99e6, sni: q08m.vgraxiw73s.hasyaf.cn}
+  - {name: 馃嚟馃嚢 棣欐腐_纰ф捣浜憁ini_鐏鐨勭櫧涓�, server: 125.94.45.119, port: 27103, type: trojan, password: 7526bc42-29dc-479c-b1bc-8bc94a3133fe, sni: q08m.vgraxiw73s.hasyaf.cn}
+  - {name: 馃嚟馃嚢 棣欐腐_纰ф捣浜憁ini_澶滃叞鐨勫皬鑴歌泲, server: 120.232.220.45, port: 27102, type: trojan, password: 805707af-1996-46bb-810c-ace929eb8dce, sni: q08m.vgraxiw73s.hasyaf.cn}
+  - {name: 馃嚟馃嚢 棣欐腐_纰ф捣浜憁ini_鐟剁懚鐨勯€�, server: 163.177.47.36, port: 27102, type: trojan, password: 3176ef41-20ae-4ddd-82b4-6d497ec30d4f, sni: q08m.vgraxiw73s.hasyaf.cn}
+  - {name: 馃嚟馃嚢 棣欐腐_纰ф捣浜憁ini_鐝婄憵瀹績娴风殑鏄熺┕, server: 183.240.116.252, port: 27101, type: trojan, password: edbaca01-e835-49fc-8b6c-2ac30c56c2e8, sni: q08m.vgraxiw73s.hasyaf.cn}
+  - {name: 馃嚟馃嚢 棣欐腐_纰ф捣浜憁ini_杈涚劚鐨勭伀绠瓛, server: 183.240.116.235, port: 27103, type: trojan, password: 24ed842f-153d-450c-be5b-3f1270f45db9, sni: q08m.vgraxiw73s.hasyaf.cn}
+  - {name: 馃嚟馃嚢 棣欐腐_纰ф捣浜憁ini_涔呭矏蹇嶇殑灏忚劯铔�, server: 120.232.220.45, port: 10465, type: trojan, password: 4967730d-9768-449d-b6fc-c34dc7b6405a, sni: q08m.vgraxiw73s.hasyaf.cn}
+  - {name: 馃嚟馃嚢 棣欐腐_纰ф捣浜憁ini_姊﹁鏈堢憺甯岀殑楂樼帺, server: 183.240.116.235, port: 27101, type: trojan, password: 75df11f7-8ae9-49d3-b3c8-c806ca24450e, sni: q08m.vgraxiw73s.hasyaf.cn}
+  - {name: 馃嚫馃嚞 鏂板姞鍧纰ф捣浜憁ini_鐢橀洦鐨勫熬宸�, server: 183.240.116.252, port: 27401, type: trojan, password: 6aa0fe12-c7b4-4665-9fe8-3379d1925123, sni: q08m.vgraxiw73s.hasyaf.cn}
+  - {name: 馃嚫馃嚞 鏂板姞鍧纰ф捣浜憁ini_鍒绘櫞鐨勯鏈烘澂, server: 163.177.47.36, port: 27401, type: trojan, password: 16495046-5b8e-470a-b048-f972fde6f765, sni: q08m.vgraxiw73s.hasyaf.cn}
+  - {name: 馃嚫馃嚞 鏂板姞鍧纰ф捣浜憁ini_钃濈牃鐨勫睅, server: 183.240.116.224, port: 27401, type: trojan, password: a74ec813-6683-47ea-996e-d81447db44df, sni: q08m.vgraxiw73s.hasyaf.cn}
+  - {name: 馃嚫馃嚞 鏂板姞鍧纰ф捣浜憁ini_鐡﹂浄鑾庣殑灏忚劯铔�, server: 58.254.186.231, port: 42881, type: trojan, password: cb8ded65-89a3-46e7-978d-1d70005e2a3c, sni: q08m.vgraxiw73s.hasyaf.cn}
+  - {name: 馃嚫馃嚞 鏂板姞鍧纰ф捣浜憁ini_闆风數灏嗗啗鐨勯伩瀛曞, server: 183.240.116.224, port: 42881, type: trojan, password: 99d4bad1-8ae9-48a9-a821-09fb0679df0b, sni: q08m.vgraxiw73s.hasyaf.cn}
+  - {name: 馃嚫馃嚞 鏂板姞鍧纰ф捣浜憁ini_浜戝爣鐨勭尗鑰�, server: 120.232.220.45, port: 27401, type: trojan, password: 7eccaecb-10ea-460f-975a-77a9cdc1fea7, sni: q08m.vgraxiw73s.hasyaf.cn}
+  - {name: 馃嚫馃嚞 鏂板姞鍧纰ф捣浜憁ini_璇鸿壘灏旂殑鐏绛�, server: 120.232.220.45, port: 27401, type: trojan, password: 096f9968-d858-41bf-b8c8-e1027497050a, sni: q08m.vgraxiw73s.hasyaf.cn}
+  - {name: 馃嚫馃嚞 鏂板姞鍧纰ф捣浜憁ini_楣块噹闄㈠钩钘忕殑濂堝瓙, server: 58.254.186.233, port: 27401, type: trojan, password: 948c61c0-385a-4927-b4cf-46c65e064f9c, sni: q08m.vgraxiw73s.hasyaf.cn}
+  - {name: 馃嚫馃嚞 鏂板姞鍧纰ф捣浜憁ini_鏃╂煔鐨勬槦绌�, server: 125.94.45.119, port: 27401, type: trojan, password: c43dd406-6ea9-406d-99fd-b52866b970d1, sni: q08m.vgraxiw73s.hasyaf.cn}
+  - {name: 馃嚫馃嚞 鏂板姞鍧纰ф捣浜憁ini_绫冲崱鐨勯浮鍚�, server: 163.177.47.36, port: 42881, type: trojan, password: ff141a25-1fbc-41bc-ab3b-4fc46112e761, sni: q08m.vgraxiw73s.hasyaf.cn}
+  - {name: 馃嚡馃嚨 鏃ユ湰_纰ф捣浜憁ini_鍐扮鐨勫皬鑴�, server: 58.254.186.222, port: 22269, type: trojan, password: f09259b2-f0ad-424d-a107-7fc3889e7219, sni: q08m.vgraxiw73s.hasyaf.cn}
+  - {name: 馃嚡馃嚨 鏃ユ湰_纰ф捣浜憁ini_闂蹭簯鐨勯浮鍚�, server: 183.2.150.64, port: 22269, type: trojan, password: 79e0f249-cfdb-4540-9d10-7d42103881ee, sni: q08m.vgraxiw73s.hasyaf.cn}
+  - {name: 馃嚡馃嚨 鏃ユ湰_纰ф捣浜憁ini_娆ф礇浼︾殑鐚€�, server: 58.254.186.233, port: 22269, type: trojan, password: b9e1eb4a-7898-43c2-9e53-de265c6f61f4, sni: q08m.vgraxiw73s.hasyaf.cn}
+  - {name: 馃嚡馃嚨 鏃ユ湰_纰ф捣浜憁ini_鍏噸绁炲瓙鐨勯€�, server: 183.2.150.98, port: 22271, type: trojan, password: e4045162-fb72-4181-800c-7dc382d93965, sni: q08m.vgraxiw73s.hasyaf.cn, skip-cert-verify: true}
+  - {name: 馃嚡馃嚨 鏃ユ湰_纰ф捣浜憁ini_娲捐挋鐨勭伀绠瓛, server: 125.94.45.119, port: 22269, type: trojan, password: c1e82ea7-433d-4445-83b2-1f7647ec432f, sni: q08m.vgraxiw73s.hasyaf.cn}
+  - {name: 馃嚡馃嚨 鏃ユ湰_纰ф捣浜憁ini_绁為噷缁崕鐨勬槦绌�, server: 183.2.150.98, port: 22269, type: trojan, password: 0a815ecd-800e-46f1-b11f-cf3b886e27fb, sni: q08m.vgraxiw73s.hasyaf.cn}
+  - {name: 馃嚡馃嚨 鏃ユ湰_纰ф捣浜憁ini_鐏鐨勫瀛�, server: 163.177.47.36, port: 22269, type: trojan, password: 8f23af6b-ddac-4e7c-b328-e6ca3c50c057, sni: q08m.vgraxiw73s.hasyaf.cn}
+  - {name: 馃嚡馃嚨 鏃ユ湰_纰ф捣浜憁ini_鑳℃鐨勫熬宸�, server: 183.2.150.90, port: 22269, type: trojan, password: 33c88040-b13c-426b-87b0-5d5334c3168e, sni: q08m.vgraxiw73s.hasyaf.cn}
+  - {name: 馃嚡馃嚨 鏃ユ湰_纰ф捣浜憁ini_鐞冲Ξ鐗圭殑椋炴満鏉�, server: 125.94.45.119, port: 22271, type: trojan, password: 3dd6cae3-d0ab-4120-bd5b-f2fd16875771, sni: q08m.vgraxiw73s.hasyaf.cn}
+  - {name: 馃嚡馃嚨 鏃ユ湰_纰ф捣浜憁ini_鍑簹鐨勭尗鑰�, server: 58.254.186.231, port: 22269, type: trojan, password: d74e192f-334d-4606-847f-e572880c7cd5, sni: q08m.vgraxiw73s.hasyaf.cn}
+  - {name: 馃嚡馃嚨 鏃ユ湰_纰ф捣浜憁ini_鑾变緷鎷夌殑鏄熺┕, server: 183.2.150.90, port: 22271, type: trojan, password: 5cae8413-4c55-4dd5-895e-331216ec4910, sni: q08m.vgraxiw73s.hasyaf.cn}
+  - {name: 馃嚡馃嚨 鏃ユ湰_纰ф捣浜憁ini_涓借帋鐨勯浮鍚�, server: 58.254.186.222, port: 27001, type: trojan, password: 020bbcd3-bdf7-497d-a23b-70a87dc6875d, sni: q08m.vgraxiw73s.hasyaf.cn}
+  - {name: 馃嚭馃嚫 缇庡浗_纰ф捣浜憁ini_楣块噹闄㈠钩钘忕殑闃磋拏, server: 120.232.220.45, port: 33505, type: trojan, password: ac7555ee-c98b-4acf-9a4c-dc474a8c9960, sni: q08m.vgraxiw73s.hasyaf.cn}
+  - {name: 馃嚭馃嚫 缇庡浗_纰ф捣浜憁ini_浼樿張鐨勫皬鑴�, server: 183.2.150.64, port: 27301, type: trojan, password: 073621ef-cc87-4fe4-ab3c-1023b975f862, sni: q08m.vgraxiw73s.hasyaf.cn}
+  - {name: 馃嚭馃嚫 缇庡浗_纰ф捣浜憁ini_娴佹氮鑰呯殑鐚€�, server: 183.240.116.224, port: 34014, type: trojan, password: 9475fef7-3a04-414e-80f5-bb00880bedf3, sni: q08m.vgraxiw73s.hasyaf.cn}
+  - {name: 馃嚭馃嚫 缇庡浗_纰ф捣浜憁ini_涔濇潯瑁熺綏鐨勫眮鐪�, server: 183.2.150.98, port: 27301, type: trojan, password: 29b236d2-14c3-4284-804e-e943a2c17328, sni: q08m.vgraxiw73s.hasyaf.cn}
+  - {name: 馃嚭馃嚫 缇庡浗_纰ф捣浜憁ini_鐟剁懚鐨勯伩瀛曞, server: 183.2.150.64, port: 33505, type: trojan, password: 76de0595-f617-42c3-aca1-748913d46dbd, sni: q08m.vgraxiw73s.hasyaf.cn}
+  - {name: 馃嚭馃嚫 缇庡浗_纰ф捣浜憁ini_澶氳帀鐨勫睅, server: 183.240.116.224, port: 27301, type: trojan, password: 4aacfad1-5a56-4401-86df-9e039a7f34be, sni: q08m.vgraxiw73s.hasyaf.cn}
+  - {name: 馃嚭馃嚫 缇庡浗_纰ф捣浜憁ini_瀹夋煆鐨勯粦涓�, server: 58.254.186.233, port: 27301, type: trojan, password: df3b9fb4-14c5-40a6-a739-572d7d1a424f, sni: q08m.vgraxiw73s.hasyaf.cn}
+  - {name: 馃嚭馃嚫 缇庡浗_纰ф捣浜憁ini_浜旈儙鐨勯鏈烘澂, server: 58.254.186.233, port: 33505, type: trojan, password: 71e5de08-5e03-4db5-b530-b6e09a945d98, sni: q08m.vgraxiw73s.hasyaf.cn}
+  - {name: 馃嚭馃嚫 缇庡浗_纰ф捣浜憁ini_鐑熺化鐨勭伀绠瓛, server: 58.254.186.233, port: 34014, type: trojan, password: e548fd4e-971f-444e-b8f8-30c573eeb549, sni: q08m.vgraxiw73s.hasyaf.cn}
+  - {name: 馃嚭馃嚫 缇庡浗_纰ф捣浜憁ini_杈捐揪鍒╀簹鐨勫熬宸�, server: 183.240.116.252, port: 33505, type: trojan, password: 1a4181d3-5dc4-423b-92a3-aceb8a6c1487, sni: q08m.vgraxiw73s.hasyaf.cn}
+  - {name: 馃嚭馃嚫 缇庡浗_纰ф捣浜憁ini_甯屾牸闆殑椋炴満鏉�, server: 183.240.116.252, port: 27301, type: trojan, password: dd84159b-94ca-4133-800d-e1e61c2b51d5, sni: q08m.vgraxiw73s.hasyaf.cn}
+  - {name: 馃嚭馃嚫 缇庡浗_纰ф捣浜憁ini_鏄庢噦鐨勫瀛�, server: 183.240.116.224, port: 33505, type: trojan, password: 76be1714-825d-48aa-bff2-745665a3751a, sni: q08m.vgraxiw73s.hasyaf.cn}
+  - {name: 馃嚭馃嚫 缇庡浗_纰ф捣浜憁ini_涓借帋鐨勫瀛�, server: 183.240.116.235, port: 33505, type: trojan, password: 6b03c9aa-8dbf-4338-9e49-260fe0134ad6, sni: q08m.vgraxiw73s.hasyaf.cn}
+  - {name: 馃嚭馃嚫 缇庡浗_纰ф捣浜憁ini_鐞寸殑鎵嬫Υ寮�, server: 163.177.47.36, port: 33505, type: trojan, password: f1ee1f9d-da6d-4a6f-a22a-4bdadcd6238a, sni: q08m.vgraxiw73s.hasyaf.cn}
+  - {name: 馃嚭馃嚫 缇庡浗_纰ф捣浜憁ini_澶滃叞鐨勮灪鏃嬮檧铻哄揩鍑嗙嫚绮夐浮楦�, server: 183.240.116.252, port: 34014, type: trojan, password: 4ac95e4d-73de-4d17-905d-bbd19530f25f, sni: q08m.vgraxiw73s.hasyaf.cn}
+  - {name: 馃嚭馃嚫 缇庡浗_纰ф捣浜憁ini_鑽夌鐨勫ぇ鑵�, server: 58.254.186.222, port: 27301, type: trojan, password: e5266bb4-b055-4c62-8cbd-cfe9a5bd29ca, sni: q08m.vgraxiw73s.hasyaf.cn}
+  - {name: 馃嚭馃嚫 缇庡浗_纰ф捣浜憁ini_鍑濆厜鐨勯暱杈�18CM鐩村緞8CM鐨勬繁娓婄矇澶村瘎鍚�, server: 58.254.186.231, port: 27301, type: trojan, password: f95bc0a3-6fe1-4f7c-a77d-a466803f3a0e, sni: q08m.vgraxiw73s.hasyaf.cn}
+  - {name: 馃嚚馃嚦 鍙版咕_纰ф捣浜憁ini_鐞寸殑鐚€�, server: 58.254.186.222, port: 27202, type: trojan, password: eb6ab686-c5f5-46a2-8b92-937063ddcc85, sni: q08m.vgraxiw73s.hasyaf.cn}
+  - {name: 馃嚚馃嚦 鍙版咕_纰ф捣浜憁ini_鍗￠綈濞滅殑閫�, server: 183.240.116.235, port: 27201, type: trojan, password: e980be62-56ac-4c59-a428-aa3a92debc28, sni: q08m.vgraxiw73s.hasyaf.cn}
+  - {name: 馃嚚馃嚦 鍙版咕_纰ф捣浜憁ini_瀹夋煆鐨勬棤姣涚矇鑹茬櫧铏庡ぇ鎵�, server: 120.232.220.45, port: 27202, type: trojan, password: 78f4a96b-19fc-4123-9f25-f74ead5d8272, sni: q08m.vgraxiw73s.hasyaf.cn}
+  - {name: 馃嚚馃嚦 鍙版咕_纰ф捣浜憁ini_鑺姯鎷夌殑楂樼帺, server: 125.94.45.119, port: 27202, type: trojan, password: b4e3c24b-67d9-4787-b0e5-16294678a318, sni: q08m.vgraxiw73s.hasyaf.cn}
+  - {name: 馃嚚馃嚦 鍙版咕_纰ф捣浜憁ini_杈涚劚鐨勬墜姒村脊, server: 58.254.186.231, port: 27201, type: trojan, password: ec08c296-c059-4365-9c78-256ebf7e398c, sni: q08m.vgraxiw73s.hasyaf.cn}
+  - {name: 馃嚚馃嚦 鍙版咕_纰ф捣浜憁ini_娆ф礇浼︾殑閬垮瓡濂�, server: 58.254.186.231, port: 27202, type: trojan, password: e31da126-e127-46a1-abc2-9db20eea3f5d, sni: q08m.vgraxiw73s.hasyaf.cn}
+  - {name: 馃嚚馃嚦 鍙版咕_纰ф捣浜憁ini_鑽掓撤涓€鏂楃殑鎵嬫Υ寮�, server: 163.177.47.36, port: 27201, type: trojan, password: 35595a3a-d13a-4a7d-a62f-4318d3df73f1, sni: q08m.vgraxiw73s.hasyaf.cn}
+  - {name: 馃嚚馃嚦 鍙版咕_纰ф捣浜憁ini_鏃辨煔鐨勫瀛�, server: 183.240.116.252, port: 27202, type: trojan, password: 259928ad-983a-46f8-b5ee-4c06062f6293, sni: q08m.vgraxiw73s.hasyaf.cn}
+  - {name: 馃嚚馃嚦 鍙版咕_纰ф捣浜憁ini_鍖楁枟鐨勬棤姣涚矇鑹茬櫧铏庡ぇ鎵�, server: 125.94.45.119, port: 27201, type: trojan, password: a395bfdf-5fb6-4a72-a5bc-f8d0309c473e, sni: q08m.vgraxiw73s.hasyaf.cn}
+  - {name: 馃嚚馃嚦 鍙版咕_纰ф捣浜憁ini_鐮傜硸鐨勯暱杈�18CM鐩村緞8CM鐨勬繁娓婄矇澶村瘎鍚�, server: 163.177.47.36, port: 27202, type: trojan, password: 3b7c6840-39e1-4f02-b584-d229744a0f19, sni: q08m.vgraxiw73s.hasyaf.cn}
+  - {name: 馃嚚馃嚦 鍙版咕_纰ф捣浜憁ini_鑽夌鐨勫睅, server: 183.240.116.252, port: 27201, type: trojan, password: 1af35ef4-ac8b-4b39-b79b-58aa36d90602, sni: q08m.vgraxiw73s.hasyaf.cn}
 
 
   
