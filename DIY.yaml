@@ -1,10 +1,10 @@
 proxies:
-  - {name: 馃嚡馃嚨 JP-1-Reality, server: 974d6dfe.ddns-link-b5.uk, port: 10031, type: vless, uuid: 86C2FD4A-BAA4-404E-99C2-843FB5D0718E, tls: true, tfo: false, flow: xtls-rprx-vision, skip-cert-verify: true, reality-opts: {public-key: wOu-BMrXvk9KX23JZrlpUlF4SMjDcejm0vNECdhy5xE, short-id: "686c0ef0" }, servername: s0.awsstatic.com, client-fingerprint: chrome, network: tcp}
-  - {name: 馃嚡馃嚨 JP1-HY2, server: jp1.dexlos.com, port: 1356, type: hysteria2, password: 86C2FD4A-BAA4-404E-99C2-843FB5D0718E, auth: 86C2FD4A-BAA4-404E-99C2-843FB5D0718E, sni: jp1.dexlos.com, skip-cert-verify: true}
-  - {name: 馃嚡馃嚨 JP2-HY2, server: jp2.dexlos.com, port: 3737, type: hysteria2, password: 86C2FD4A-BAA4-404E-99C2-843FB5D0718E, auth: 86C2FD4A-BAA4-404E-99C2-843FB5D0718E, sni: jp2.dexlos.com, skip-cert-verify: true}
-  - {name: 馃嚡馃嚨 JP3-HY2, server: jp3.dexlos.com, port: 5739, type: hysteria2, password: 86C2FD4A-BAA4-404E-99C2-843FB5D0718E, auth: 86C2FD4A-BAA4-404E-99C2-843FB5D0718E, sni: jp3.dexlos.com, skip-cert-verify: true}
-  - {name: 馃嚡馃嚨 JP4-HY2, server: jp4.dexlos.com, port: 7338, type: hysteria2, password: 86C2FD4A-BAA4-404E-99C2-843FB5D0718E, auth: 86C2FD4A-BAA4-404E-99C2-843FB5D0718E, sni: jp4.dexlos.com, skip-cert-verify: true}
-  - {name: 馃嚡馃嚨 JP5-HY2, server: jp5.dexlos.com, port: 9682, type: hysteria2, password: 86C2FD4A-BAA4-404E-99C2-843FB5D0718E, auth: 86C2FD4A-BAA4-404E-99C2-843FB5D0718E, sni: jp5.dexlos.com, skip-cert-verify: true}
+  - {name: 日本 JP-1-Reality, server: 974d6dfe.ddns-link-b5.uk, port: 10031, type: vless, uuid: 86C2FD4A-BAA4-404E-99C2-843FB5D0718E, tls: true, tfo: false, flow: xtls-rprx-vision, skip-cert-verify: true, reality-opts: {public-key: wOu-BMrXvk9KX23JZrlpUlF4SMjDcejm0vNECdhy5xE, short-id: "686c0ef0" }, servername: s0.awsstatic.com, client-fingerprint: chrome, network: tcp}
+  - {name: 日本 JP1-HY2, server: jp1.dexlos.com, port: 1356, type: hysteria2, password: 86C2FD4A-BAA4-404E-99C2-843FB5D0718E, auth: 86C2FD4A-BAA4-404E-99C2-843FB5D0718E, sni: jp1.dexlos.com, skip-cert-verify: true}
+  - {name: 日本 JP2-HY2, server: jp2.dexlos.com, port: 3737, type: hysteria2, password: 86C2FD4A-BAA4-404E-99C2-843FB5D0718E, auth: 86C2FD4A-BAA4-404E-99C2-843FB5D0718E, sni: jp2.dexlos.com, skip-cert-verify: true}
+  - {name: 日本 JP3-HY2, server: jp3.dexlos.com, port: 5739, type: hysteria2, password: 86C2FD4A-BAA4-404E-99C2-843FB5D0718E, auth: 86C2FD4A-BAA4-404E-99C2-843FB5D0718E, sni: jp3.dexlos.com, skip-cert-verify: true}
+  - {name: 日本 JP4-HY2, server: jp4.dexlos.com, port: 7338, type: hysteria2, password: 86C2FD4A-BAA4-404E-99C2-843FB5D0718E, auth: 86C2FD4A-BAA4-404E-99C2-843FB5D0718E, sni: jp4.dexlos.com, skip-cert-verify: true}
+  - {name: 日本 JP5-HY2, server: jp5.dexlos.com, port: 9682, type: hysteria2, password: 86C2FD4A-BAA4-404E-99C2-843FB5D0718E, auth: 86C2FD4A-BAA4-404E-99C2-843FB5D0718E, sni: jp5.dexlos.com, skip-cert-verify: true}
 
 
   
