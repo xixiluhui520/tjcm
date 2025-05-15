@@ -1,8 +1,5 @@
 proxies:
-  - {name: 🇭🇰 香港1 cheat, server: brookseek.trafficmanager.net, port: 17101, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: cfd86835-ca71-44a7-8413-7ec5722e85c0, tfo: false}
-  - {name: proxy-34l.pages.dev, server: a.arises.dynv6.net, port: 8443, client-fingerprint: random, type: vless, uuid: 40af9131-d540-448a-bc56-5bba147a1dc3, tls: true, tfo: false, skip-cert-verify: false, servername: proxy-34l.pages.dev, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: proxy-34l.pages.dev}}}
-  - {name: proxy-1cu.pages.dev, server: a.arises.dynv6.net, port: 8443, client-fingerprint: random, type: vless, uuid: 40af9131-d540-448a-bc56-5bba147a1dc3, tls: true, tfo: false, skip-cert-verify: false, servername: proxy-1cu.pages.dev, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: proxy-1cu.pages.dev}}}
-  - {name: proxy-3us.pages.dev, server: a.arises.dynv6.net, port: 8443, client-fingerprint: random, type: vless, uuid: 40af9131-d540-448a-bc56-5bba147a1dc3, tls: true, tfo: false, skip-cert-verify: false, servername: proxy-3us.pages.dev, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: proxy-3us.pages.dev}}}
+ 
 
 
   
