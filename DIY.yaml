@@ -1,5 +1,4 @@
 proxies:
-  - {name: 🇭🇰 香港_鸣潮plus_联通58, server: 58.254.186.233, port: 27105, client-fingerprint: chrome, type: ss, cipher: 2022-blake3-aes-128-gcm, password: MGU2Nzk1ZjI4MjNlYzk4Yw==:OTA1ZWRiNTQtYjRjZS00N2E=, tfo: false}
   - {name: 🇭🇰 香港_鸣潮plus_联通58 2, server: 58.254.186.233, port: 10465, client-fingerprint: chrome, type: trojan, password: 905edb54-b4ce-47ad-ac94-51d58161a59a, sni: q08m.vgraxiw73s.hasyaf.cn, skip-cert-verify: true}
   - {name: 🇭🇰 香港_鸣潮plus_联通58 3, server: 58.254.186.222, port: 27101, client-fingerprint: chrome, type: trojan, password: 905edb54-b4ce-47ad-ac94-51d58161a59a, sni: q08m.vgraxiw73s.hasyaf.cn, skip-cert-verify: true}
   - {name: 🇭🇰 香港_鸣潮plus_联通58 4, server: 58.254.186.222, port: 27103, client-fingerprint: chrome, type: trojan, password: 905edb54-b4ce-47ad-ac94-51d58161a59a, sni: q08m.vgraxiw73s.hasyaf.cn, skip-cert-verify: true}
